@@ -1,0 +1,22 @@
+Concept Class
+
+Event Class
+Operation
+//Discharge
+//Admit
+
+Organization Class
+Hospital
+
+People Class
+Doctor
+Patient
+Nurse
+
+Place Class
+Reception
+//Ward
+
+Tangible Things and Device Class
+Medicine
+Report
